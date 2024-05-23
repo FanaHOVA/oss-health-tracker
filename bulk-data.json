@@ -1,0 +1,17 @@
+{
+    "projects": [
+        {
+            "name": "Pydantic",
+            "repo": "pydantic/pydantic",
+            "team_members": [
+                "samuelcolvin",
+                "dmontagu",
+                "hramezani",
+                "adriangb",
+                "jonathanj",
+                "sydney-runkle",
+                "Kludex"
+            ]
+        }
+    ]
+}
